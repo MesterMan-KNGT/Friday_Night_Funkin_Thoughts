@@ -1,0 +1,138 @@
+Warning: Long post ahead, only read if you have the time 
+(it’ll probably take like 15-30 minutes on average, 5 if you’re a great reader)
+
+
+The day has arrived, if you wanna know more about how I create my posts, then thIs is for you
+I will go further in-depth to how each blog post is hand-crafted carefully and thoroughly by yours truly
+I will even explain where this specific repository is going, in the future
+
+Part 1:
+
+To make things easier on the eyes to reAd, every paragraph or two will have this visual indicator called a “part” to split up the content
+In each part, I’ll be discussing a different aspect of my overall writing
+This part, Part Numero One, is explaining how the system works
+Part Two is all about how I make my posts, a relatively straightforward concept to understand
+Part Three is all about how I get my inspiration for doing said posts, where exactly it is coming, and why froM there exactly
+Part Four will be all about the future of this blog, since there are MANY questions to be posed about where this is going and whether I will continue this 
+blog even after 0.8.0 comes out
+Without further ado, let’s move on to Part 2! 
+
+
+Part 2:
+
+Ok, so I’ve briefly explained how the process works in five steps
+If you need a reminder or have no idea what I’m talking about, here are those steps again:
+Step 1: I do my Research using any social links
+Step 2: I brainstorm and come up with an idea for a post
+Step 3: I write until it makes sense (first draft usually does)
+Step 4: I post the file 
+Step 5: Done!
+But if you wAnt a more in-depth overview, then I’d be happy to oblige and tell y’all about it
+
+Alright, so first things first, what “social links” am I talking about here?
+Well, on this specific repo, I have a wiki page known as “Important Links” where I post everything online that you need in order to become a FNF superfan
+Some of those links I frequently visit (what, you think I put them there for show) and new information is found
+
+After finding the information I need, I do a bit of brainstorming
+This usually includes contemplating for a few minuteS and then writing what comes to mind
+Yeah, that’s about it for Step 2, which takes all of 1-5 minutes to accomplish
+Coming up for a topic for a blog post is surprisingly easy (not to jinx it), especially if there is some new breaking development going on in the social links
+
+Now that I’ve thought up what I want to write, then it’s actually time to start writing
+I treat these blog posts like a free-flow piece, just writing what the mind thinks of at the moment and sticking with it
+Almost always, the first draft ends being the final product that I “upload” to the Github repo
+I do aLl my writing on a separate document and then I copy over the contents over to a new file created in “the_posts” branch
+This is because I like the formatting of my specific program I’m using to write this (no, it isn’t Notepad, lol) 
+and actually prefer it over Github cluttered writing style
+It’s also because Github’s style does not indicate how long a sentence can be, but my program of choice does, 
+so that way, y’all don’t have to scroll horizontally to see the end of a line
+I try to keep each line short but sometimes I feel the need to fit extra information, so bare that in mind
+
+After writing, as I’ve said previously, I copy all the contents over to another file and I post it
+Voila, that’s basically the entire writing process in 4 steps
+There is a fifth step that I occasionally do, which involves checking for grammar, modifying files, and potentiAlly censoring unwanted information
+(and yes, this step was done when I deleted the crashout I had in “Let’s be real for a second here”, but it’s also been done to many others, 
+let’s not dwell too hard on it, okay)
+Now I’ll talk about my inspiration for making the posts, including the social links I frequent to find the necessary info
+
+
+Part 3:
+
+Twitter/X has been a vital resource when writing my posts, and any new info giVen is but a treat
+I say this because most of the time, especially with Funkin News and Funkin Remnants, there are reposts for that day
+which makes sense, considering there are a ton of FNF creators out there and the authors of those accounts want them to gain recognition, 
+but it also makes it super inconveniEnt to find actual FNF stuff
+Luckily, the actual FNF stuffage is almost always not the reposts and instead direct tweets from the accounts or the developers
+For example, a couple days back, Funkin Remnants made a tweet thread regarding the new features thaT are in 
+FNF:TMP, as comparable to the retweets from That day
+I use Twitter mainly because it’s concise to find stuff and anything linked to a 
+specific account can mostly be traced to the original source 
+
+Another vital resource I use to make my pOsts are the wikis that I have linked
+I’m talking about Funkipedia and the FNF Mods wiki (which are both on different wiki hosting sites, what a bother)
+Funkipedia provides canon FNF information that I can use as a base-line for my posts and 
+also serves as a great way to create “info docs” for the game thus far
+The FNF mods wiki has been especially helpful in the two posts I made about mod characters and why I love them so much
+I personally recommended checking out the “featured” section in the Mods Wiki 
+and the “Gallery of New Files” section in the Funkipedia to regularly update yourself on the happenings of FNF 
+
+These are the main social links I use, but there’s a lot more thaT I’m not going to talk about here
+If you wanna see for yourself, I urge you to check out the “Important Links” on this Repo to find more
+And also, the creators of FNF (and the others I’ve mentioned) have extra content over on their Newgrounds accounts, 
+so I heavily implore you to check those out too
+For example, PhantomArcade has an entire comic listed there (not that it isn’t listed on Twitter too, 
+but you’ll have an easier time looking in the “Art” tab tHan scrolling through his past tweets)
+Also, if you can muster the courage to do so, you can read the reviews of the game on the itch.io page and the Newgrounds page, 
+just be wary of trolls in the comments, alright?
+Alright, on to the last Part, where I’ll discuss the futurE of the repo…
+
+
+Part 4:
+
+All things conSidered, this repository has been through a LOT
+I took a break from doing posting, realized I had to continue but in moderation, and also proceeded to post two daYs in a row afterward
+It also two wiki pages, both with time and effort placed into them, but not a single layer of actual code that exists
+So, on the off chance that this repo gets shut down due breaking Github’s terms and services, I will need to create an actual blog
+I will likely be using either WordPress or, if there are no other available options, I can use the YT posts section (create a new account and post to there)
+So far though, it’s going strong, and I don’t think Github is going to complain about me using a repo to post my thoughts and feelings about a dang video game 
+(but they could take action, which explains the contingency plans above)
+
+Alright, as for this specific Github repo, I have created a new section that is already implemented in a repository whenever you start one
+I’m talking about the MilestoneS section, where future “issues” will be listed, whether that be a new post idea or editing a wiki page, split up by years 
+(if I actually plan on doing this for more than a year and don’t get caught up in my studies)
+You can also contribute too, if I have enabled everything correctly, just send me suggestions on whaT you want me to cover
+by creating an issue, not a pull request 
+(just don’t be a troll and nothing NSFW, alright, FNF has quite a few kid/teen players and they are bound to find this repo)
+Right now, I don’t have anything else to add besides a reminder to myself to close the issue in this year’s edition
+
+Now, as I’ve revealed in my last post, I’m not actually a kid (as one could assume due to my intense fanboy-ish nature). 
+I’m in my lower-teens/upper-twenties as of writing this, which means that, 
+eventually, I’m going to need to get myself involved in my studies work
+During this time, as one might expect, the amount of posts will significantly decrease
+I’m thinking of doing one once a month, but no promises on that either
+I’m only hoping that FNF: Week 8 is announced, at lEast the character, so that I can talk about it in a post 
+
+
+Outro:
+
+And so that’s it, the entire writing process and then some
+This took me many days to coMplete and re-draft, as I wanted to make sure I was as concise as possible
+These types of posts are really special and probably won’t happen all that often, maybe at least biannually
+That being said, now that it’s over with, I need to busy myself with another project
+Luckily, by the time this post comes out, the Mobile Port release would have released (HOPEFULLY)
+All that’s left to say is a huge thank-you for sticking with me and reading through the entire post
+If you scrolled to the end, well, you should probably read the other parts, otherwise, Whitty might go all ballistic on you in the near future
+Make to star this repo to get the latest updates
+Have a wonderful rest of the day and gooooodbyeeee
+
+
+
+
+
+P.S. There’s a secret message hidden throughout the post
+I’ll give you a hint: proper word creation and the UNlikes
+
+
+P.P.S. I’m sorry to all the users reading this on a phone
+I have no idea how to format these correctly when it comes to aspect ratio of certain devices
+I mainly cater to my PC users, but bare with me, maybe I’ll find a solution in the near future
