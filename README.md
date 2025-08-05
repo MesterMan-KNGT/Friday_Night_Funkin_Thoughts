@@ -1,4 +1,4 @@
-<div align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Friday_Night_Funkin%27_logo.svg/2560px-Friday_Night_Funkin%27_logo.svg.png" width="800">
+<div align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Friday_Night_Funkin%27_logo.svg/2560px-Friday_Night_Funkin%27_logo.svg.png" width="600">
 
 <h2>A blog for this dang game, you should definitely go play it! Like, right now! Pretty puhlease...</a></h2>
 
