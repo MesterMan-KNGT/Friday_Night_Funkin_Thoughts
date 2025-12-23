@@ -1,6 +1,6 @@
-<div align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Friday_Night_Funkin%27_logo.svg/2560px-Friday_Night_Funkin%27_logo.svg.png" width="600">
+<div align='center'><img src="https://github.com/user-attachments/assets/2e414a4b-ed31-46d3-932b-967fa466b6ca" width="400">
 
-<h2>A blog for this dang game, you should definitely go play it! Like, right now! Pretty puhlease...</a></h2>
+A blog for this dang game, you should definitely go play it! Like, right now! Pretty puhlease...</a></h2>
 
 *Filler Text cause I don't know what to put here, lol*
 
